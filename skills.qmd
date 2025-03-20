@@ -1,0 +1,50 @@
+---
+lang: fr
+title: "Compétences"
+subtitle: "Notre savoir faire"
+image: ./images/skills.png
+resources: ./documents/RSEplaquette.pdf
+about:
+  template: marquee
+  image-width: "100%"
+  id: pokabout
+---
+::: {#pokabout}
+:::
+
+
+::: {.column-body-outset-left}
+# Développement d’outils spécifiques
+L’analyse de grand jeux de données hydrologiques (température et salinité), physiques (e.g. paramètres de vague), biogéochimiques (e.g. oxygène, couleur de l’eau, nutriment) et autres … nécessite des bases de données bien structurées pour une utilisation rapide et efficace. Nous développons nos propres bases de données pour répondre à nos besoins de R&D ainsi que tout un panel d’outils dédiés à la visualisation des données, à leur contrôle qualité, à leur traitement statistique, etc. Nos méthodes de développement favorisent l’accessibilité, l’interopérabilité et la portabilité de nos outils. 
+:::
+
+::: {.column-margin}
+![](./images/pokapok-tools.png)
+:::
+
+
+::: {.column-body-outset}
+# QA/QC
+Toute analyse de données peut être biaisée voire erronée si toutes les données de mauvaise qualité (capteur défaillant par exemple) n’ont pas été préalablement écartées. Or, face au volume de données disponible et pour répondre également aux problématiques de distribution des données en temps quasi-réel, il est nécessaire de disposer de procédures de contrôle qualité automatique et semi-automatique des données.
+:::
+
+::: {.column-body}
+![](./images/minmax-world-PSAL.png)
+:::
+
+::: {.column-body}
+Nous développons et validons nos propres procédures de contrôle qualité. Nous examinons/qualifions en temps quasi-réel les alertes soulevées afin de pouvoir fournir des données de meilleure qualité à la communauté scientifique et autres intervenants politiques ou publics. Nos méthodes de qualification gèrent la traçabilité des modifications apportées.
+:::
+
+::: {.column-body-outset}
+# Publications
+
+## En lien avec le test de contrôle qualité MinMax :
+
+* Article de revue : [Journal of Atmospheric and Oceanic Technology, 2020](https://journals.ametsoc.org/view/journals/atot/37/5/jtech-d-18-0244.1.xml)
+* Note technique #1
+* Note technique #2
+* Note technique #3 – Update Nov. 2023
+* Note technique #4 – 2D Version
+
+:::

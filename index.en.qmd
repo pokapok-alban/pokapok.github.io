@@ -1,0 +1,22 @@
+---
+lang: en
+title: "Home page"
+subtitle: "Marine Data Applications & Toolsets"
+image: ./images/bzh-seascape.jpeg
+resources: ./documents/RSEplaquette.pdf
+about:
+  template: marquee
+  image-width: "100%"
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:contact@pokapok.org
+    - text: our CSR
+      icon: file-text
+      href: ./documents/RSEplaquette.pdf
+---
+
+
+
+# POKaPOK
+An invitation to adopt cooperation and transdisciplinarity in order to address scientific and environmental challenges

@@ -1,11 +1,34 @@
 ---
-title: "pokapok.github.io"
+lang: fr
+title: "POKaPOK"
+subtitle: "R&D en données marines in situ"
+image: ./images/bzh-seascape.jpg
+resources: ./documents/RSEplaquette.pdf
+about:
+  template: marquee
+  image-width: "100%"
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:contact@pokapok.org
+    - text: notre CSE
+      icon: file-text
+      href: ./documents/RSEplaquette.pdf
+  id: pokabout
 ---
 
-This is a Quarto website.
+:::{#pokabout}
+Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+:::{.column-body-outset}
+#
+POKaPOK est une société coopérative et participative (SCOP), experte dans le traitement et l’analyse de données environnementales. Notre équipe pluridisciplinaire est composée entre autres d’informaticiens, de physiciens, de chimistes, et de biologistes, spécialistes dans les sciences marines et de l’atmosphère.  
+
+
+POKaPOK, ce savant mélange de sonorités catalanes et bretonnes, traduit notre volonté de s’attaquer à de grands projets mais pas à pas, en commençant par la construction de bases solides pour répondre ensuite à des enjeux majeurs de notre époque. Un petit pas pour POKaPOK, un petit pas pour les sciences environnementales !
+:::
+
+
+

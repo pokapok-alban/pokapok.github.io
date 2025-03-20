@@ -2,15 +2,148 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pokapok.github.io",
+    "title": "POKaPOK",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux\n \n    \n  \n    \n     Email\n  \n  \n    \n     notre CSE\n  \n\n\n  \n\n\n\n\nPOKaPOK est une société coopérative et participative (SCOP), experte dans le traitement et l’analyse de données environnementales. Notre équipe pluridisciplinaire est composée entre autres d’informaticiens, de physiciens, de chimistes, et de biologistes, spécialistes dans les sciences marines et de l’atmosphère.\nPOKaPOK, ce savant mélange de sonorités catalanes et bretonnes, traduit notre volonté de s’attaquer à de grands projets mais pas à pas, en commençant par la construction de bases solides pour répondre ensuite à des enjeux majeurs de notre époque. Un petit pas pour POKaPOK, un petit pas pour les sciences environnementales !"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "A propos",
+    "section": "",
+    "text": "A propos de Pokapok\nProin sodales neque erat, varius cursus diam tincidunt sit amet. Etiam scelerisque fringilla nisl eu venenatis. Donec sem ipsum, scelerisque ac venenatis quis, hendrerit vel mauris. Praesent semper erat sit amet purus condimentum, sit amet auctor mi feugiat. In hac habitasse platea dictumst. Nunc ac mauris in massa feugiat bibendum id in dui. Praesent accumsan urna at lacinia aliquet. Proin ultricies eu est quis pellentesque. In vel lorem at nisl rhoncus cursus eu quis mi. In eu rutrum ante, quis placerat justo. Etiam euismod nibh nibh, sed elementum nunc imperdiet in. Praesent gravida nunc vel odio lacinia, at tempus nisl placerat. Aenean id ipsum sed est sagittis hendrerit non in tortor.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index_fr.html",
+    "href": "index_fr.html",
+    "title": "Home page",
+    "section": "",
+    "text": "Our company logo is : \n \n    \n  \n    \n     Email\n  \n  \n    \n     RESplaquette\n  \n\n\n  \n\n\nPokapok contenu en francais"
+  },
+  {
+    "objectID": "about.fr.html",
+    "href": "about.fr.html",
+    "title": "A propos",
+    "section": "",
+    "text": "A propos de Pokapok\nProin sodales neque erat, varius cursus diam tincidunt sit amet. Etiam scelerisque fringilla nisl eu venenatis. Donec sem ipsum, scelerisque ac venenatis quis, hendrerit vel mauris. Praesent semper erat sit amet purus condimentum, sit amet auctor mi feugiat. In hac habitasse platea dictumst. Nunc ac mauris in massa feugiat bibendum id in dui. Praesent accumsan urna at lacinia aliquet. Proin ultricies eu est quis pellentesque. In vel lorem at nisl rhoncus cursus eu quis mi. In eu rutrum ante, quis placerat justo. Etiam euismod nibh nibh, sed elementum nunc imperdiet in. Praesent gravida nunc vel odio lacinia, at tempus nisl placerat. Aenean id ipsum sed est sagittis hendrerit non in tortor.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.fr.html",
+    "href": "index.fr.html",
+    "title": "Home page",
+    "section": "",
+    "text": "Our company logo is : \n \n    \n  \n    \n     Email\n  \n  \n    \n     notre CSE\n  \n\n\n  \n\n\nPokapok contenu en francais"
+  },
+  {
+    "objectID": "index.en.html",
+    "href": "index.en.html",
+    "title": "Home page",
+    "section": "",
+    "text": "POKaPOK\nAn invitation to adopt cooperation and transdisciplinarity in order to address scientific and environmental challenges"
+  },
+  {
+    "objectID": "about.en.html",
+    "href": "about.en.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Vestibulum ultrices, tortor at mattis porta, odio nisi rutrum nulla, sit amet tincidunt eros quam facilisis tellus. Fusce eleifend lectus in elementum lacinia. Nam auctor nunc in massa ullamcorper, sit amet auctor ante accumsan. Nam ut varius metus. Curabitur eget tristique leo. Cras finibus euismod erat eget elementum. Integer vel placerat ex. Ut id eros quis lectus lacinia venenatis hendrerit vel ante.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Accueil",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Accueil",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacter",
+    "section": "",
+    "text": "115 rue Claude Chappe, 29280 Plouzané, FRANCE +33 (0)9 70 75 23 17\n\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=-4.5723, lat=48.361267, popup=\"POKaPOK Headquarters\")"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Actualités",
+    "section": "",
+    "text": "Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux\n \n    \n  \n    \n     Email\n  \n  \n    \n     notre CSE"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projets",
+    "section": "",
+    "text": "Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux\n \n    \n  \n    \n     Email\n  \n  \n    \n     notre CSE"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Compétences",
+    "section": "",
+    "text": "Développement d’outils spécifiques\nL’analyse de grand jeux de données hydrologiques (température et salinité), physiques (e.g. paramètres de vague), biogéochimiques (e.g. oxygène, couleur de l’eau, nutriment) et autres … nécessite des bases de données bien structurées pour une utilisation rapide et efficace. Nous développons nos propres bases de données pour répondre à nos besoins de R&D ainsi que tout un panel d’outils dédiés à la visualisation des données, à leur contrôle qualité, à leur traitement statistique, etc. Nos méthodes de développement favorisent l’accessibilité, l’interopérabilité et la portabilité de nos outils.\n\n\n\n\n\nQA/QC\nToute analyse de données peut être biaisée voire erronée si toutes les données de mauvaise qualité (capteur défaillant par exemple) n’ont pas été préalablement écartées. Or, face au volume de données disponible et pour répondre également aux problématiques de distribution des données en temps quasi-réel, il est nécessaire de disposer de procédures de contrôle qualité automatique et semi-automatique des données.\n\n\n\n\n\nNous développons et validons nos propres procédures de contrôle qualité. Nous examinons/qualifions en temps quasi-réel les alertes soulevées afin de pouvoir fournir des données de meilleure qualité à la communauté scientifique et autres intervenants politiques ou publics. Nos méthodes de qualification gèrent la traçabilité des modifications apportées."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Équipe",
+    "section": "",
+    "text": "Jerome GOURRION\n\n\n\nemployee\n\n\nmanager\n\n\n\nJG description\n\n\n\n\n\n\n\n\n\n\n\n\n\nVirginie RACAPE\n\n\n\nemployee\n\n\n\nVR description\n\n\n\n\n\n\n\n\n\n\n\n\n\nDelphine LEROY\n\n\n\nemployee\n\n\n\nDL description\n\n\n\n\n\n\n\n\n\n\n\n\n\nClement WEBER\n\n\n\nemployee\n\n\n\nVW description\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlban SIZUN\n\n\n\nemployee\n\n\nmanager\n\n\n\nAS description\n\n\n\n\n\n\n\n\n\n\n\n\n\nDamien BOURY\n\n\n\nemployee\n\n\n\nDB description\n\n\n\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n\n\n\n\n\n\nYann REYNAUD\n\n\n\nformer=employee\n\n\n\nYR description\n\n\n\n\n\n\n\n\n\n\n\n\n\nBryan HENNEBAUT\n\n\n\nformer-employee\n\n\n\nBH description\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "RSE.html",
+    "href": "RSE.html",
+    "title": "RSE",
+    "section": "",
+    "text": "Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux\n \n    \n  \n    \n     Email\n  \n  \n    \n     notre CSE"
+  },
+  {
+    "objectID": "jobs.html",
+    "href": "jobs.html",
+    "title": "Emplois",
+    "section": "",
+    "text": "Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux\n \n    \n  \n    \n     Email\n  \n  \n    \n     notre CSE"
+  },
+  {
+    "objectID": "skills.html#en-lien-avec-le-test-de-contrôle-qualité-minmax",
+    "href": "skills.html#en-lien-avec-le-test-de-contrôle-qualité-minmax",
+    "title": "Compétences",
+    "section": "En lien avec le test de contrôle qualité MinMax :",
+    "text": "En lien avec le test de contrôle qualité MinMax :\n\nArticle de revue : Journal of Atmospheric and Oceanic Technology, 2020\nNote technique #1\nNote technique #2\nNote technique #3 – Update Nov. 2023\nNote technique #4 – 2D Version"
+  },
+  {
+    "objectID": "members/jgourrion.html",
+    "href": "members/jgourrion.html",
+    "title": "Jerome GOURRION",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     CV\n  \n\n\n\n\nSi j’ai découvert, jeune adulte, ma passion et mon respect pour la mer à travers la découverte de la voile croisière en Méditerranée, c’est en quittant mon Var natal à 23 ans pour suivre une formation universitaire en Océanographie que j’ai commencé à m’investir pleinement dans ce métier. Petit à petit, après de nombreuses phases d’apprentissage (manifestement plus longues que de commun …), j’ai le sentiment depuis quelques années de m’être forgé avec le temps une expérience modeste mais solide et variée.\nMes garçons m’ont fait grandir, la vie m’a appris beaucoup et continue à le faire; je suis depuis plusieurs années particulièrement intéressé par les mécanismes permettant (ou empêchant) la mise en place de fonctionnement collectif, i.e. d’une conjonction de comportements d’humains, dans le respect et le contrôle de leurs émotions, qui peut éventuellement aboutir à dépasser les lois de l’arithmétique, 1+1 pouvant finalement faire bien plus que 2. Catalyser les énergies constructives, déconstruire les injonctions diverses pour mieux reconstruire les fonctionnements inter-individuels, c’est certainement une part importante de ma démarche de recherche à la fois dans mon travail et dans ma vie sociale quotidienne.\nPour ce qui est du monde du travail, après une première tentative avortée sur le tard et dans la douleur, nous avons initié avec Virginie un nouveau projet coopératif depuis mi-2021 nommé POKaPOK. Je suis aujourd’hui comblé par l’enthousiasme, l’intelligence humaine et l’énergie que mes collègues de POKaPOK investissent à leur tour dans ce nouveau projet coopératif prometteur dans lequel nous visons à façonner notre bien-être au travail et à décupler modestement notre force productive pour le bénéfice des enjeux environnementaux majeurs de notre époque."
+  },
+  {
+    "objectID": "team.html#menebres-actifs",
+    "href": "team.html#menebres-actifs",
+    "title": "Équipe",
+    "section": "Menebres actifs",
+    "text": "Menebres actifs\n\n\n\n\n\n\n\n\n\n\nJerome GOURRION\n\n\n\nemployee\n\n\nmanager\n\n\n\nJG description\n\n\n\n\n\n\n\n\n\n\n\n\n\nVirginie RACAPE\n\n\n\nemployee\n\n\n\nVR description\n\n\n\n\n\n\n\n\n\n\n\n\n\nDelphine LEROY\n\n\n\nemployee\n\n\n\nDL description\n\n\n\n\n\n\n\n\n\n\n\n\n\nClement WEBER\n\n\n\nemployee\n\n\n\nVW description\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlban SIZUN\n\n\n\nemployee\n\n\nmanager\n\n\n\nAS description\n\n\n\n\n\n\n\n\n\n\n\n\n\nDamien BOURY\n\n\n\nemployee\n\n\n\nDB description\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "team.html#anciens-collaborateurs",
+    "href": "team.html#anciens-collaborateurs",
+    "title": "Équipe",
+    "section": "Anciens collaborateurs",
+    "text": "Anciens collaborateurs"
+  },
+  {
+    "objectID": "team.html#membres-actifs",
+    "href": "team.html#membres-actifs",
+    "title": "Équipe",
+    "section": "Membres actifs",
+    "text": "Membres actifs"
   }
 ]

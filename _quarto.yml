@@ -1,22 +1,56 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: ./docs
+  preview: 
+    port: 8844
 
 website:
-  title: "pokapok.github.io"
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: false
+  #   content: "**WIP** - this site is being refactored using quarto"
+  #   type: primary
+  #   position: above-navbar
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - index.qmd
+      - skills.qmd
+      - team.qmd
+      - projects.qmd
+      - RSE.qmd
+      - news.qmd
+      - jobs.qmd
+      - contact.qmd
+
+
+    # right: 
+    #   - href: index.fr.qmd
+    #     text: Français
+    #   - href: index.qmd
+    #     text: English
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    backgroundcolor: "#eeeeff"
+    fontcolor: "#000032"
+    linkcolor: "darkblue"
+    link-external-newwindow: true
+    fontsize: 20px
+    theme: flatly
+      # - brand
+      # - custom.scss
     css: styles.css
     toc: true
 
-
-
+babelquarto:
+  languagecodes:
+  - name: fr
+    text: "Français"
+  - name: en
+    text: "English"
+  mainlanguage: ['fr']
+  languages: ['en']
+title-en: Pokapok
+description-en: pokapok website
+author-fr: Alban SIZUN
+lang: fr

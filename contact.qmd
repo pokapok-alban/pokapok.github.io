@@ -1,0 +1,36 @@
+---
+lang: fr
+title: "Contacter"
+image: ./images/contact-us.png
+resources: ./documents/RSEplaquette.pdf
+about:
+  template: marquee
+  image-width: "100%"
+  # links: 
+  #   - text: Email
+  #     icon: envelope
+  #     href: mailto:contact@pokapok.org
+  #   - text: notre CSE
+  #     icon: file-text
+  #     href: ./documents/RSEplaquette.pdf
+  id: pokabout
+---
+
+::: {#pokabout}
+:::
+
+::: {.column-body-outset-right}
+115 rue Claude Chappe, 29280 Plouzané, FRANCE
++33 (0)9 70 75 23 17
+:::
+
+
+```{r}
+#| column: screen-inset-right
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-4.5723, lat=48.361267, popup="POKaPOK Headquarters")
+```
+

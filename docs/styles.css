@@ -1,1 +1,88 @@
 /* css styles */
+
+
+#quarto-header {
+    opacity: 80%;
+}
+
+
+#quarto-margin-sidebar {
+    visibility: hidden;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+
+#quarto-header>nav {
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+#quarto-content>* {
+    padding-top: 0px;
+}
+
+#quarto-margin-sidebar {
+    top: 80px;
+}
+
+
+#quarto-content {
+    padding: 0;
+    grid-column: screen-start/screen-end;
+    grid-row: contents-top/contents-bottom;
+}
+
+
+
+
+body.fullcontent:not(.floating):not(.docked) .page-columns {
+    display: grid;
+    gap: 0;
+    /* grid-template-columns: [screen-start] 0em [screen-start-inset] 0fr [page-start page-start-inset] 0px [body-start-outset] 0px [body-start] 0em [body-content-start] minmax(500px, 1999px) [body-content-end] 0em [body-end] 0px [body-end-outset] 0px [page-end-inset page-end] 0fr [screen-end-inset] 0em; */
+}
+
+
+div.quarto-about-marquee {
+    position: relative;
+    margin-top: -71px;
+    padding-bottom: 1em;
+    background: #354555;
+    color: whitesmoke;
+    grid-column: screen-start / screen-end;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    left: 0px;
+
+
+}
+
+
+
+div.quarto-about-marquee .about-contents {
+    display: flex;
+    flex-direction: column;
+    margin-inline: 30px;
+    align-items: center;
+    text-align: center;
+}
+
+div.quarto-about-marquee .about-link {
+    color: #13b6c1;
+    text-decoration: none;
+    border: solid 1px;
+}
+
+/* #pokabout {
+    position: absolute;
+    margin-top: -200px;
+} */

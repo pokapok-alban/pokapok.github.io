@@ -1,0 +1,13 @@
+- title: Yann REYNAUD
+  path: ./members/yreynaud.html
+  image: ./images/members/yreynaud.png
+  description: >
+    YR description
+  categories: [ ]
+
+- title: Bryan HENNEBAUT
+  path: ./members/bhennebaut.html
+  image: ./images/members/bhennebaut.png
+  description: >
+    BH description
+  categories: [ ]

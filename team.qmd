@@ -1,0 +1,40 @@
+---
+lang: fr
+title: "Équipe"
+image: ./images/team.jpg
+resources: ./documents/RSEplaquette.pdf
+about:
+  template: marquee
+  image-width: "100%"
+  id: company
+listing:
+  - id: active-members
+    type: grid
+    page-size: 12
+    contents: team-members.yml
+  - id: old-members
+    type: table
+    page-size: 12
+    contents: old-members.yml
+    categories: false
+
+---
+
+:::{#company}
+:::
+
+::: {.column-body}
+#
+## Membres actifs
+:::
+
+:::{#active-members}
+:::
+
+::: {.column-body}
+#
+## Anciens collaborateurs
+:::
+
+:::{#old-members}
+:::

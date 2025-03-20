@@ -1,0 +1,41 @@
+- title: Jerome GOURRION
+  path: ./members/jgourrion.html
+  image: ./images/members/jgourrion.png
+  description: >
+    JG description
+  categories: [ employee, manager ]
+
+- title: Virginie RACAPE
+  path: ./members/vracape.html
+  image: ./images/members/vracape.png
+  description: >
+    VR description
+  categories: [ employee ]
+
+- title: Delphine LEROY
+  path: ./members/dleroy.html
+  image: ./images/members/dleroy.png
+  description: >
+    DL description
+  categories: [ employee ]
+
+- title: Clement WEBER
+  path: ./members/cweber.html
+  image: ./images/members/cweber.png
+  description: >
+    VW description
+  categories: [ employee ]
+
+- title: Alban SIZUN
+  path: ./members/asizun.html
+  image: ./images/members/asizun.png
+  description: >
+    AS description
+  categories: [ employee, manager ]
+
+- title: Damien BOURY
+  path: ./members/dboury.html
+  image: /
+  description: >
+    DB description
+  categories: [ employee ]

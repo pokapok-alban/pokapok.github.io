@@ -1,0 +1,27 @@
+---
+lang: fr
+title: "Actualités"
+subtitle: "Applications de données marines"
+image: ./images/news.jpg
+resources: ./documents/RSEplaquette.pdf
+about:
+  template: marquee
+  image-width: "100%"
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:contact@pokapok.org
+    - text: notre CSE
+      icon: file-text
+      href: ./documents/RSEplaquette.pdf
+  id: company
+---
+
+:::{#company}
+
+Une invitation à adopter coopération et transdisciplinarité afin de répondre aux défis scientifiques et environnementaux
+
+
+:::
+
+
